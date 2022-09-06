@@ -1,3 +1,8 @@
+# Description 
+this is a 4 stages pipeline for testing application before deploying to the production 
+
+
+
 stages:
     - build
     - test
